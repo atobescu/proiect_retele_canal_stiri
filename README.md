@@ -2,6 +2,10 @@
 
 Aplicație distribuită de tip client-server pentru gestionarea canalelor de știri, cu subscripție, notificări și filtrare de conținut.
 
+## Video de prezentare
+
+https://drive.google.com/drive/folders/1hSLZHuMRNBid2h6cjoUxXWygzTOy2s2k?usp=sharing 
+
 ## Arhitectură
 
 ```
